@@ -1,12 +1,21 @@
 <h1 align="center">Hi, I'm Luco Vilanculos 👋</h1>
 
 I'm a UI/UX-focused Front-End Developer with experience in:
-
-- HTML
+- Canva
+- ---
+- Figma
+- ---
+- HTML 
+-  ---
 - CSS
+- ---
 - TailwindCSS
+- ---
 - JavaScript
+- ---
 - TypeScript
+- ---
+- React
 
 ---
 
@@ -66,7 +75,7 @@ luco-vilanculos-5b551432a
 </section>
 
 ---
-**Built with love, Tailwind, TypeScript, and no `default export` — just clean code.** 🚀
+**Built with love, Tailwind, TypeScript — clean code.** 🚀
 ---
 <p align="center">
   Feito com ❤️ por <strong>Luco Vilanculos</strong>
