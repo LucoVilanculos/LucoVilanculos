@@ -2,19 +2,12 @@
 
 I'm a UI/UX-focused Front-End Developer with experience in:
 - Canva
-- ---
 - Figma
-- ---
 - HTML 
--  ---
 - CSS
-- ---
 - TailwindCSS
-- ---
 - JavaScript
-- ---
 - TypeScript
-- ---
 - React
 
 ---
